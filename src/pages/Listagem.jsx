@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import pizzas from '../shared/Pizzas'
-
+//oia a nota
 const Listagem = () => {
 
     const ItensLista = () => pizzas.map(
